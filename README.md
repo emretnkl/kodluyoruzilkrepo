@@ -4,7 +4,7 @@ Bu repo [Kodluyoruz](https://www.kodluyoruz.org) Front-End Eğitiminde oluşturd
 
 ![github](figures/github.png)
 
-[Repo Foto](https://www.upload.ee/image/14504031/gitrepo.PNG)
+![Repo Foto](https://www.upload.ee/image/14504031/gitrepo.PNG)
 
 ## Installation
 
